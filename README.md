@@ -16,4 +16,4 @@ microcontroller and the Nervousnet database, and the Nervousnet mysql DB.
 
 To know more about this project, please visit:
 
-https://www.engenheiros.pt/\~oe84598/4.2-Proj_SystemsEngineering.html
+https://www.engenheiros.pt/~oe84598/4.2-Proj_SystemsEngineering.html
